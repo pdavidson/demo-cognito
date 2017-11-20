@@ -18,6 +18,9 @@ public class TokenController {
     // Docs for using the token
     // http://docs.aws.amazon.com/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html#amazon-cognito-user-pools-using-the-access-token
 
+    // Suggested library to validate
+    // https://connect2id.com/products/nimbus-jose-jwt/examples/jws-with-rsa-signature
+
     /*
      {
       "keys": [
