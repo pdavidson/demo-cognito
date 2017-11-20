@@ -15,6 +15,9 @@ public class TokenController {
     // My keys
     //https://cognito-idp.us-east-1.amazonaws.com/us-east-1_tHhhasTwb/.well-known/jwks.json
 
+    // Docs for using the token
+    // http://docs.aws.amazon.com/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html#amazon-cognito-user-pools-using-the-access-token
+
     /*
      {
       "keys": [
